@@ -1,0 +1,25 @@
+[
+    {
+        "titulo": "Como a web transforma código em páginas",
+        "autor": "Equipe Caderno Digital",
+        "dataPublicacao": "06-11-2026",
+        "descricao": "Descubra como HTML, CSS e JavaScript trabalham juntos para construir páginas web interativas.",
+        "conteudo": "Neste artigo, exploramos o processo de transformação do código em páginas web. Começamos com HTML, que estrutura o conteúdo, seguido pelo CSS, que estiliza a aparência, e finalmente o JavaScript, que adiciona interatividade. Entenda como cada tecnologia contribui para a experiência do usuário e como elas se complementam para criar sites dinâmicos e envolventes."
+    },
+
+    {
+        "titulo": "CSS Modules: Organizando estilos em aplicações React",
+        "autor": "Equipe Caderno Digital",
+        "dataPublicacao": "06-11-2026",
+        "descricao": "Descubra como utilizar CSS Modules para organizar estilos em aplicações React.",
+        "conteudo": "Neste artigo, exploramos o uso de CSS Modules para organizar estilos em aplicações React. Descubra como criar estilos locais, evitar conflitos de nomes e manter um código mais limpo e passível de manutenção."
+    },
+
+    {
+        "titulo": "Server Components: Entendendo o poder do Next.js",
+        "autor": "Equipe Caderno Digital",
+        "dataPublicacao": "06-11-2026",
+        "descricao": "Explore o conceito de Server Components no Next.js e como eles podem melhorar o desempenho e a experiência do usuário.",
+        "conteudo": "Neste artigo, mergulhamos no conceito de Server Components no Next.js. Descubra como essa abordagem permite renderizar componentes no servidor, melhorando o desempenho e a experiência do usuário. Aprenda sobre as vantagens de utilizar Server Components em suas aplicações Next.js e como eles podem simplificar a lógica de renderização."
+    }
+]
